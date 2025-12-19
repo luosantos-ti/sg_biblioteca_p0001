@@ -52,5 +52,7 @@ Adicionei um pequeno passo a passo para criar um ambiente virtual e rodar um scr
 
 Nada muito complexo, só para facilitar a inserção de dados fictícios.
 
+Obs: Para que o seed funcione, é necessário ter um schema criado no Workbench e que no topo do arquivo de seed, as configurações para conexão ao banco de dados estejam de acordo com o que foi previamente configurado localmente, tal como admin, senha, nome_do_banco.
+
 Licença:
 Projeto aberto para estudo e consulta.
